@@ -1,5 +1,6 @@
 # Fake-News-Prediction-Using-Machine-Learning
 Dataset link:  https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset<br>
+<br>
 📌 Overview <br>
 With the rise of misinformation, detecting fake news is crucial. This project uses machine learning to classify news articles as real or fake based on their textual content. By leveraging Natural Language Processing (NLP) and supervised learning, we aim to build a robust classification model.
 <br>
