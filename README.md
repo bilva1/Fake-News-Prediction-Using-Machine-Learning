@@ -10,11 +10,9 @@ Features:<br>
 - Machine Learning Models: Logistic Regression, Random Forest, Decision Tree, and Naïve Bayes.
 - Performance Metrics: Accuracy, Precision, Recall, and F1-score.
 <br>
-<br>
 Tech Stack:<br>
 - Programming Language: Python
 - Libraries & Tools: scikit-learn, NLTK, pandas, NumPy, Matplotlib, seaborn
-<br>
 <br>
 Workflow: <br>
 - Data Preprocessing: Clean and prepare the dataset for training.
