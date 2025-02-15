@@ -10,15 +10,18 @@ Features:<br>
 - Machine Learning Models: Logistic Regression, Random Forest, Decision Tree, and Naïve Bayes.
 - Performance Metrics: Accuracy, Precision, Recall, and F1-score.
 <br>
+<br>
 Tech Stack:<br>
 - Programming Language: Python
 - Libraries & Tools: scikit-learn, NLTK, pandas, NumPy, Matplotlib, seaborn
+<br>
 <br>
 Workflow: <br>
 - Data Preprocessing: Clean and prepare the dataset for training.
 - Feature Extraction: Convert text into numerical representations.
 - Model Training & Evaluation: Train multiple ML models and compare performance.
 - Prediction: Classify new articles as real or fake.
+<br>
 <br>
 Results:<br>
 - The models achieve high accuracy, with Decision tree and SVM performing the best.
